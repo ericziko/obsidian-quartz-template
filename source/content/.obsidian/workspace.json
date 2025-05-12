@@ -1,62 +1,64 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              }
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "41a29637f381f8d4",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "a40cf756cfc893f4",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "0c55dc925d31eb43",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "2b710dea98821881",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,104 +69,356 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "a1d716a9be1b098a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b35066cde2dc10be",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "7a0d1ce3870c33b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/DailyNotes/2025/04/2025-04-30/What methods are there such as Jeckyll for converting Obsidian notes into websites that I can publish on github pages?.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of What methods are there such as Jeckyll for converting Obsidian notes into websites that I can publish on github pages?"
+            }
+          },
+          {
+            "id": "fefccc2efbdd84ea",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fb9d1be035ba82bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "1732cd2a48ae6de2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 445.5026054382324
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "00f1904fc83978e9",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "83dde46898ce4b4d",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "5367a455e510337d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "src/DailyNotes/2025/05/2025-05-11/What is the difference between Mediatr and Microsoft csharp signals framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What is the difference between Mediatr and Microsoft csharp signals framework"
             }
           },
           {
-            "id": "5acb7020384970a8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f850ba7e9e699bea",
+            "id": "02b46b153076c2f4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "86615f51a7916579",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "all-properties",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5a47b30088d4f4a6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "748fee733496f259",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5b007676a5a0b6ad",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ebbb46e304150f46",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9e5deaff42886532",
+            "type": "leaf",
+            "state": {
+              "type": "playground-view",
+              "state": {
+                "openInPopout": false,
+                "id": "f84944ef-3bcf-4354-96be-c03cfb68f25f",
+                "input": "{{#each children}} \n{{this.content}} \n{{/each}}",
+                "answer": "---\ncreated: 2025-05-07T00:00\nupdated: 2025-05-07T00:01\n---\n# 2025\n\n%% Begin Landmark %%\n- **[[2025]]**\n\t- **01**\n\t\t- **[[2025-01-01]]**\n\t\t- **[[2025-01-06]]**\n\t\t- **[[2025-01-08]]**\n\t\t- **[[2025-01-09]]**\n\t\t- **[[2025-01-12]]**\n\t\t- **[[2025-01-13]]**\n\t\t- **[[2025-01-14]]**\n\t\t- **[[2025-01-22]]**\n\t\t- **[[2025-01-30]]**\n\t- **02**\n\t\t- **[[2025-02-03]]**\n\t\t- **[[2025-02-04]]**\n\t\t- **[[2025-02-06]]**\n\t\t- **[[2025-02-24]]**\n\t\t- **[[2025-02-26]]**\n\t- **[[03]]**\n\t- **04**\n\t\t- **[[2025-04-04]]**\n\t\t- **[[2025-04-05]]**\n\t\t\t- [[2025-04-05]]\n\t\t- **[[2025-04-06]]**\n\t\t- **[[2025-04-07]]**\n\t\t- **[[2025-04-08]]**\n\t\t- **[[2025-04-09]]**\n\t\t- **[[2025-04-13]]**\n\t\t- **[[2025-04-15]]**\n\t\t- **[[2025-04-16]]**\n\t\t- **[[2025-04-18]]**\n\t\t- **[[2025-04-20]]**\n\t\t- **[[2025-04-22]]**\n\t\t- **[[2025-04-23]]**\n\t\t- **[[2025-04-30]]**\n\t- **05**\n\t\t- **[[2025-05-05]]**\n\t\t- **[[2025-05-06]]**\n\t- [[2025]]\n\n%% End Landmark %% \n---\ncreated: 2025-01-01T17:40\nupdated: 2025-04-05T15:47\n---\n# 2025-01-01\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-01]]**\n\t- [[Demo to Martin about how to use chat gpt]]\n\t- **[[Get a copy of Martins Resume]]**\n\t- [[Martins Resume]]\n\t- **PowerShellDemo**\n\t\t- [[Get-MyIpAddressAndComputerName.ps1]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-06T20:59\nupdated: 2025-04-05T15:47\n---\n# 2025-01-06\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-06]]**\n\t- [[Async Enumerable Benchmarks with 100 Million]]\n\t- [[AsyncEnumerable Benchmarks]]\n\t- [[How do I calculate percentage of improvement]]\n\t- [[I am a patient of the American health care system]]\n\t- [[What is the purpose of GetAwaiter in c-sharp]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-08T18:27\nupdated: 2025-04-05T15:47\n---\n# 2025-01-08\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-08]]**\n\t- [[About this student]]\n\t- [[Give matt a demo of Chat-GPT]]\n\t- [[wood chucks]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-09T20:39\nupdated: 2025-04-05T15:47\n---\n# 2025-01-09\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-09]]**\n\t- [[Flux GitOps Notes]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-12T12:14\nupdated: 2025-04-30T13:14\n---\n# 2025-01-12\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-12]]**\n\t- [[2025-01-12]]\n\t- [[Device Access Code for Router]]\n\t- [[IP Address questions]]\n\t- [[Is there a way in git to check if commits are intertwined]]\n\t- **src**\n\t\t- **[[Proxmox]]**\n\t- [[What are the security implications of adding health check endpoints to application in non development environment]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-13T22:21\nupdated: 2025-04-05T15:47\n---\n# 2025-01-13\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-13]]**\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n```\nMy IP: 192.168.1.92\nSubnet mask: 255.255.255.0\nRouter: 192.168.1.254\n\n```\n\n## I am trying to ssh into another machine on my local network and I am getting no route to host?\n\n\n> [!ai] Chat-GPT\n\nThere could be several reasons why you're encountering a \"no route to host\" error when trying to ssh into another machine on your local network. Here are some potential issues and how you can troubleshoot them:\n\n1. **The target machine is off or not connected to the network:** Check if the machine you're trying to access is powered on and properly connected to the network.\n\n2. **IP address is incorrect or has changed:** Make sure the IP address of the machine you're trying to access is correct. IP addresses can change, especially if they are assigned dynamically via DHCP.\n\n3. **Firewall blocking SSH traffic:** The firewall on either your machine, the target machine, or possibly even the router could be blocking SSH traffic. Check if any firewalls are enabled and configured correctly to allow SSH connections.\n\n4. **SSH service not running on target machine:** The SSH service might not be running on the machine you're trying to access. You can check this by accessing the target machine locally and using a command like `systemctl status ssh` (on Linux) to check if the service is running.\n\n5. **Incorrect Subnet mask:** Ensure that both computers are in same subnet.\n\n6. **Routing issue in your network:** Make sure router knows how to route packets between these two machines.\n\nAlways remember, you should have necessary permissions and rights for accessing another system over ssh.\n \n---\ncreated: 2025-01-14T00:08\nupdated: 2025-04-05T15:47\n---\n# 2025-01-14\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-14]]**\n\t- [[Network Solutions recovery key]]\n\t- [[What is a name server as it relates to domain names]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-22T23:07\nupdated: 2025-04-05T15:47\n---\n# 2025-01-22\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-22]]**\n\t- [[New Router information]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-01-30T15:35\nupdated: 2025-04-05T15:47\n---\n# 2025-01-30\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-01-30]]**\n\t- [[How do I read the following output from `ip a` command in linux]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-02-03T20:45\nupdated: 2025-04-05T15:47\n---\n# 2025-02-03\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-02-03]]**\n\t- [[2025-02-03 Chat-GPT Questions]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n```\n╰─❯ ssh-keygen -t rsa -b 4096\nGenerating public/private rsa key pair.\nEnter file in which to save the key (/Users/ericziko/.ssh/id_rsa): proxmox\nEnter passphrase (empty for no passphrase):\nEnter same passphrase again:\nYour identification has been saved in proxmox\nYour public key has been saved in proxmox.pub\nThe key fingerprint is:\nSHA256:cZTm/zflt56gfXgh9Co2PV+ipeykGVlLJjxhYEmjCt8 ericziko@Erics-Mac-mini.local\nThe key's randomart image is:\n+---[RSA 4096]----+\n|       .=...     |\n|       o.+o      |\n|  .   . .o+      |\n|   o o   =.. .   |\n|    o E S +.= .  |\n|           B.o o.|\n|          o +o*.+|\n|           XoOo=*|\n|          +oB.**+|\n+----[SHA256]-----+\n```\n\n---\n\n### What does the following do?\n\n```\ndefaults delete com.apple.finder NSUserKeyEquivalents\n```\n\n\n> [!ai] Chat-GPT\n\nThe command `defaults delete com.apple.finder NSUserKeyEquivalents` is used to remove custom keyboard shortcuts for the Finder application on macOS.\n\nHere's a breakdown:\n- `defaults` is a command line utility in macOS that manipulates the user defaults system, which stores application settings and preferences.\n- `delete` is the operation to be performed, it deletes a key from a domain.\n- `com.apple.finder` is the domain - in this case, it refers to the Finder application.\n- `NSUserKeyEquivalents` is the key that is being deleted. It's used to store custom keyboard shortcuts for menu items in applications.\n\nSo, this command effectively removes any custom keyboard shortcuts that have been set for Finder.\n\n#### Is there a way to view the values in `NSUserKeyEquivalents`?\n> [!ai] Chat-GPT\n\n Yes, you can view the values in `NSUserKeyEquivalents` by using the following command in Terminal:\n\n```\ndefaults read NSUserKeyEquivalents\n```\n\nThis command will display all the custom keyboard shortcuts you've set for menu items.\n\n---\n\n### What is an LVM Group in Ubuntu?\n\n\n> [!ai] Chat-GPT\n\nLVM stands for Logical Volume Manager. It is a device mapper framework provided by the Linux kernel that provides a way to create logical partitions out of physical volumes.\n\nAn LVM Group, also known as Volume Group (VG), is a high-level concept in the LVM. A Volume Group is a pool of storage that consists of one or more physical volumes. You can think of it as a big disk made by combining many individual hard drives or partitions.\n\nIn other words, you can use LVM Groups to combine multiple disks into one large virtual disk that can be partitioned and managed easily. This gives great flexibility as you can create, resize and delete partitions from this virtual disk without worrying about the actual physical disk layout.\n\nOne common use case for LVM is in situations where you might run out of space on a particular partition. Instead of having to move data and resize partitions, you could simply add another disk to your server, add it to your volume group, and then extend the logical volume to include this new space.\n\nYou manipulate Logical Volumes within these groups using LVM commands like `lvcreate`, `lvextend`, `lvreduce`, etc., while `vgcreate`, `vgextend` are used for creating and extending Volume Groups respectively.\n\n\n\n\n\n \n---\ncreated: 2025-02-04T01:48\nupdated: 2025-04-05T15:47\n---\n# 2025-02-04\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-02-04]]**\n\t- [[2025-02-04 - Chat-GPT Questions]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n[[]] \n---\ncreated: 2025-02-06T14:17\nupdated: 2025-04-05T15:47\n---\n# 2025-02-06\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-02-06]]**\n\t- [[From Normal mode in VIM is there a way to insert space without entering edit mode]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-02-24T13:54\nupdated: 2025-04-05T15:47\n---\n# 2025-02-24\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-02-24]]**\n\t- [[Installed SpaceVIM]]\n\t- [[What do you call the language server integration between c sharp and IDE's]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n\n\n\n## AssetMark interview notes\n[AssetMark | Wealth Solutions](https://www.assetmark.com/)\n\n1655 Grant Street, Concord, CA\n### Spoke to recruiter Arun Kumar\n- Contract to hire \n1. Video interview\n2. In person interview\n\n\n- They do financial advising\n- Add azure to resume & get it back to you\n- Client manager will contact me Mike\n\nSpoke with Mike from Trident  \n\n- Tools that they are using are specific to them?\n- How much offshore development vs onshore development?\n- What is the in office requirement?\n\t- Working with CIO\n\t\t- Tuesday, Wednesday, Thursday in office.\n\t\t- What is the vacation time?\n\t\t- Contract to hire\n\t\t- Each pod they stand up consists of 6-7 skillsets\n\t\t\t- QA\n\t\t\t- Business system analyst  \n\t\t\t- 1655 Grant St, Concord, CA 94520\n\n\n\n\n \n---\ncreated: 2025-02-26T16:51\nupdated: 2025-04-05T15:47\n---\n# 2025-02-26\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-02-26]]**\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n### Watched\n- [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)\n\n\n\n \n---\ncreated: 2024-02-10T13:48\nupdated: 2025-05-06T23:59\n---\n# 03\n\n%% Begin Landmark %%\n- **[[03]]**\n\t- [[03]]\n\n%% End Landmark %% \n---\ncreated: 2025-04-04T23:10\nupdated: 2025-04-05T15:47\n---\n# 2025-04-04\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-04]]**\n\t- [[git manual rebase question]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n\n \n---\ncreated: 2025-04-05T13:19\nupdated: 2025-04-05T15:47\n---\n# 2025-04-05\n\n\n> When creating `*.ps1` powershell scripts in VSCode - the IDE seems to run them and then replaces the contents of the `*.ps1` file with the run results corrupting it?\n> What is happening?\n\n\n> [!ai] Chat-GPT\n\nThis is definitely not the expected behavior for running PowerShell scripts in Visual Studio Code (VSCode). There could be a couple of things that are causing this, and here are a few steps you can take to troubleshoot:\n\n1. **Check your VSCode extensions**: Do you have any extensions installed that could be causing this? For instance, the PowerShell extension or any run code extension might have some configurations that replace your scripts with their outputs. Try disabling these extensions one by one to see if the issue persists.\n\n2. **Check your tasks.json or launch.json file**: If you're using a tasks.json or launch.json file to run your scripts, make sure there's nothing in there that would cause this behavior.\n\n3. **Reinstall VSCode and PowerShell extension**: If none of the above works, try reinstalling VSCode and the PowerShell extension.\n\nRemember always to save a backup of your scripts before running them in case they get replaced again.\n\nIf after all these steps, the problem still persists, it might be a bug and should be reported on Microsoft's GitHub page for VSCode or the PowerShell extension.\n\n---\n> In powershell how would I touch all '*.md' files below current folder\n\n\n> [!ai] Chat-GPT\n\nIn PowerShell, you can use the `Get-ChildItem` command to find all `.md` files below the current directory, and then use the `Set-ItemProperty` command to update the last write time, which is equivalent to \"touching\" the file. Here's how you would do it:\n\n```powershell\nGet-ChildItem -Recurse -Filter *.md | ForEach-Object { Set-ItemProperty -Path $_.FullName -Name LastWriteTime -Value (Get-Date) }\n```\n\nThis script works as follows:\n\n1. `Get-ChildItem -Recurse -Filter *.md`: This gets all `.md` files in the current directory and all subdirectories.\n\n2. `ForEach-Object { Set-ItemProperty -Path $_.FullName -Name LastWriteTime -Value (Get-Date) }`: This loops over each file and updates its last write time to the current date and time.\n\nRemember that PowerShell scripts can be powerful, so always make sure you know what a script does before running it. \n---\ncreated: 2025-04-06T12:41\nupdated: 2025-05-06T23:32\n---\n# 2025-04-06\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-06]]**\n\t- [[2025-04-06]]\n\t- [[a powershell script to turn folders into note folders in Obsidian]]\n\t- **[[Fix GeekDom PC]]**\n\t\t- [[C827A680-9012-4DAF-B651-E70F7FC53136_1_105_c.jpeg]]\n\t\t- [[Fix GeekDom PC]]\n\t- [[Generate a list of hotkeys from obsidian]]\n\t- [[Learn blazor]]\n\t- [[Please note to check the current COVID-19 guidelines and restrictions for these events and locations.]]\n\t- [[src/DailyNotes/2025/04/2025-04-06/Untitled]]\n\t- [[Xiang 2025 Rave Vacation in Berlin]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n## Todo\n\n - [ ] [[Xiang 2025 Rave Vacation in Berlin]]\n - [ ] [[Fix GeekDom PC]]\n\n### Wrote [[a powershell script to turn folders into note folders in Obsidian]]\n\n [[Learn blazor]] \n---\ncreated: 2025-04-07T09:47\nupdated: 2025-04-07T21:29\n---\n# 2025-04-07\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-07]]**\n\t- [[2025-04-07]]\n\t- [[Figure out how to version dot file in home directory with git]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n - [ ] [[Figure out how to version dot file in home directory with git]]\n\n- CoPilot\n- SmartConnections\n\n\n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 \n---\npromptId: 2025-04-08\nname: \"🗞️2025-04-08 \"\ndescription: 2025-04-08\nauthor: \"\"\ntags: \"\"\nversion: 0.0.1\ndisableProvider: false\ncreated: 2025-04-08T00:13\nupdated: 2025-04-08T00:23\n---\n```handlebars\n{{Title}}\n{{Headings}}\n```\n***\n\n# 2025-04-08\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-08]]**\n\t- [[2025-04-08]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\nhere is some selected textV \n---\ncreated: 2025-04-09T23:33\nupdated: 2025-04-10T00:52\n---\n# 2025-04-09\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-09]]**\n\t- [[2025-04-09]]\n\t- [[Model Context Protocol Search Engine]]\n\t- [[Playwright MCP Servers]]\n\t- [[Raindrop.IO password]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n### [[Model Context Protocol Search Engine]]\n\n\n- [ ] Take a look at https://mcp.so \n---\ncreated: 2025-04-13T00:05\nupdated: 2025-04-13T00:30\n---\n# 2025-04-13\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-13]]**\n\t- [[2025-04-13]]\n\t- [[Figure out a workflow for reviewing notes in obsidian]]\n\t- **[[See if I can get github copilot to analyze my Raindrop bookmarks]]**\n\t\t- [[Copilot reply 1]]\n\t\t- [[See if I can get github copilot to analyze my Raindrop bookmarks]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n## Todo\n\n- [ ] [[Figure out a workflow for reviewing notes in obsidian]]\n \n---\ncreated: 2025-04-15T16:34\nupdated: 2025-04-15T16:34\n---\n# 2025-04-15\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-15]]**\n\t- [[2025-04-15]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-04-16T18:16\nupdated: 2025-04-22T00:40\n---\n# 2025-04-16\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-16]]**\n\t- [[50% off coupon for n8n]]\n\t- [[2025-04-16]]\n\t- [[Copilot conversation on refactoring to CQRS]]\n\t- **[[n8n Just Released Native MCP Trigger and AI Agent Tool]]**\n\t\t- [[n8n Just Released Native MCP Trigger and AI Agent Tool]]\n\t\t- [[Pasted image 20250416233948.png]]\n\t- [[Text Generator]]\n\t- [[src/DailyNotes/2025/04/2025-04-16/Untitled]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n## Todo\n- [[n8n Just Released Native MCP Trigger and AI Agent Tool]]\n \n---\ncreated: 2025-04-18T10:17\nupdated: 2025-04-18T10:36\n---\n# 2025-04-18\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-18]]**\n\t- [[2025-04-18]]\n\t- [[Open AI API Key]]\n\n%% End Waypoint %%\n***\n# Notes:\n\n [[Open AI API Key]]\n---\n\n```\ndall-e-3\nwhisper-1\ntts-1\ndall-e-2\ntts-1-hd-1106\ntts-1-hd\ngpt-4-turbo-2024-04-09\ngpt-4-turbo\ngpt-3.5-turbo-1106\ngpt-4-0613\ngpt-4-1106-preview\ngpt-4o-2024-05-13\ngpt-4-0125-preview\ngpt-4\ntext-embedding-3-small\ngpt-4-turbo-preview\ntext-embedding-3-large\ngpt-3.5-turbo-16k\nbabbage-002\ngpt-3.5-turbo-0125\ntts-1-1106\ngpt-3.5-turbo\ngpt-3.5-turbo-instruct\ngpt-3.5-turbo-instruct-0914\ntext-embedding-ada-002\ngpt-4o\ndavinci-002\n```\n\nPlease give me a short summary of each of the above chat-gpt models, including their usefulness and relative cost\n\n\n> [!ai] Chat-GPT\n\n1. `dall-e-3`: This is a variant of the DALL-E model which generates images from textual descriptions. It is useful for creating novel images based on user inputs.\n\n2. `whisper-1`: This is an Automatic Speech Recognition (ASR) system trained on a large amount of multilingual and multitask supervised data collected from the web. It's useful for transcribing spoken words into written text.\n\n3. `tts-1`: This is a Text-to-Speech model that converts written text into audible speech, useful for voice assistants, audiobooks etc.\n\n4. `dall-e-2`: Another variant of the DALL-E model with different capabilities and performance characteristics.\n\n5. `tts-1-hd-1106` and `tts-1-hd`: These are high-definition versions of the tts-1 model which provide higher quality audio output.\n\n6. `gpt-4-turbo-2024-04-09` and `gpt-4-turbo`: These are large language models with billions of parameters, capable of generating human-like text based on provided prompts. They can be used in applications like chatbots, writing assistants etc.\n\n7. `gpt-3.5-turbo`, `gpt-3.5-turbo-instruct`, `gpt-3.5-turbo-instruct-0914`,  and `gpt-3.5-turbo` variants: These are smaller versions of the GPT models, offering a balance between cost-effectiveness and performance, often used in similar applications as the larger models but at a lower cost.\n\n8. `gpt-4o` and its variants: These represent different iterations or versions of the GPT model with varying capabilities and performances.\n\n9.`text embedding models (text embedding 3 small/large, text-embedding-ada-002)`: These models are used to convert text into numerical vectors that represent the semantic content of the text. They're useful for tasks like semantic search, text classification etc.\n\n10. `davinci-002`: This is a version of OpenAI's largest language model, known for its ability to generate creative and contextually rich content.\n\n11. `babbage-002`: This is a smaller variant of GPT models by OpenAI, offering cost-efficient solutions for many NLP tasks.\n\nCosts for these models vary based on their size and capabilities; larger models like GPT-3.5 Turbo and GPT-4 Turbo tend to be expensive due to their computational requirements, while smaller models like Babbage-002 or GPT-3.5 Turbo variants are more affordable.\n\n---\n\nHello? \n> [!ai] Chat-GPT\n\nHello! How can I assist you today?\n\nHow would I use the Obsidian 'Text Generator' to summarize all the notes in my Obsidian vault by Month and Week?\n\n\n> [!ai] Chat-GPT\n\nTo use the \"Text Generator\" in Obsidian to summarize your notes by month and week, you can follow these steps. This assumes you are using a plugin or a custom script that functions as a \"Text Generator\" since Obsidian doesn't have a built-in feature specifically called \"Text Generator.\" You might be referring to using templates, scripts, or third-party plugins to automate summarization:\n\n1. **Organize Your Notes:** Make sure your notes are organized in a way that they can be easily sorted by date. You might already be doing this by naming your files with dates or storing them in folders categorized by year and month.\n\n2. **Install Necessary Plugins:**\n   - If you haven't already, install plugins like \"Dataview\" which can help in extracting and displaying data from your notes based on metadata (like dates).\n   - You might also consider plugins like \"Templater\" if you want to automate the creation of summary documents using templates.\n\n3. **Setting Up Dataview:**\n   - Use Dataview to create queries that pull information from your notes based on their metadata. For instance, if each of your notes has a front matter section with `date` specified, Dataview can use this to group and summarize notes.\n   - Example of a Dataview query for monthly summary:\n     ```markdown\n     ```dataview\n     TABLE sum(length) as Words, count(file.name) as Notes\n     FROM \"your-notes-folder\"\n     WHERE date(this.file.day) >= date(\"2023-01-01\") AND date(this.file.day) < date(\"2023-02-01\")\n     GROUP BY month(date)\n     ```\n     ```\n   - Adjust the above query according to your folder structure and fields.\n\n4. **Weekly Summaries:**\n   - Modify the Dataview query for weekly summaries:\n     ```markdown\n     ```dataview\n     TABLE sum(length) as Words, count(file.name) as Notes\n     FROM \"your-notes-folder\"\n     WHERE date(this.file.day) >= date(\"2023-01-01\") AND date(this.file.day) < date(\"2023-01-08\")\n     GROUP BY week(date)\n     ```\n     ```\n\n5. **Automate Summaries with Templater:**\n   - Use Templater to automatically generate new summary pages at regular intervals (like at the end of each week or month).\n   - Set up templates that include Dataview queries and perhaps additional summaries like key points extracted from each note.\n   \n6. **Scheduling Automation:**\n   - For automation beyond what Obsidian plugins offer (like creating new summary pages automatically), consider external scripting tools like Python scripts scheduled with cron jobs (for Linux/Mac) or Task Scheduler (for Windows). These scripts can create new Obsidian markdown files containing appropriate templates or queries.\n\n7. **Review and Refine:**\n   - Regularly check the outputs for accuracy and completeness.\n   - Refine your queries and templates as needed based on what types of summaries are most useful for you.\n\n8.  **Backup Your Data:** Since you're running automated scripts and handling lots of files, ensure you have backups in case something goes wrong.\n\nThis setup requires some initial configuration but can significantly streamline how you review and manage your notes over time by leveraging Obsidian's powerful community plugins alongside external tools if necessary.\n\n---\nWhat can you tell me about the following url?\n\n```\nhttps://api.openai.com/v1\n```\n\n\n> [!ai] Chat-GPT\n\nThe URL `https://api.openai.com/v1` refers to the base URL for accessing the version 1 of the API provided by OpenAI. APIs (Application Programming Interfaces) are sets of rules and tools that allow different software applications to interact with each other. Here’s what you can typically do with it:\n\n### Functionality\n- **API Access**: This URL is the entry point for developers to make requests to various services offered by OpenAI, such as language models (like GPT-3, GPT-4), image generation models (like DALL-E), and others.\n- **Integration**: Developers use this API to integrate OpenAI's capabilities into their own applications, websites, or systems.\n\n### Usage\nTo use the services provided at `https://api.openai.com/v1`, you would need:\n- **API Key**: Secure access requires an API key provided by OpenAI upon registration for their services. This key must be included in the headers of HTTP requests to authenticate and authorize operations.\n- **Endpoint Specification**: After the base URL, specific endpoints are appended depending on what functionality you're accessing (e.g., text generation, image creation).\n- **Request Parameters**: Depending on the service used (like text generation), you’ll send parameters in your request that specify details like the model used, prompt text, number of tokens for response length etc.\n\n### Examples of Use\nAn example HTTP request to this API might look like this if using curl from a command line:\n```bash\ncurl -X POST \"https://api.openai.com/v1/engines/davinci-codex/completions\" \\\n    -H \"Content-Type: application/json\" \\\n    -H \"Authorization: Bearer YOUR_API_KEY\" \\\n    -d '{\"prompt\":\"Translate 'Hello World' into French\",\"max_tokens\":60}'\n```\nThis example would send a request to generate text based on the prompt provided, using a specific language model (\"davinci-codex\").\n\n### Security and Best Practices\nWhen using APIs like `https://api.openai.com/v1`, it’s crucial to:\n- Keep your API key secure and never expose it in client-side code.\n- Follow rate limits and usage guidelines set by OpenAI to avoid service disruptions or extra charges.\n- Handle data responsibly, particularly when processing sensitive information.\n\nThis API forms a critical part of how developers access and utilize OpenAI's advanced AI tools programmatically. It is widely used across various industries for tasks ranging from automated content creation, coding assistance, data analysis enhancements, customer service automation, and more.\n\n---\n> What is 'open-ai instruct'\n\n\n> [!ai] Chat-GPT\n\n\"OpenAI Instruct\" refers to a type of model or approach developed by OpenAI that is designed to follow user instructions more closely than previous models. These models are part of the GPT (Generative Pre-trained Transformer) family but have been fine-tuned or optimized for better alignment with the users' intents and instructions in generating responses.\n\n### Key Features of OpenAI Instruct Models:\n1. **User Intent Alignment**: These models are trained to understand and generate responses that are more aligned with the specific instructions given by the user. This makes them particularly useful for applications where precise adherence to user prompts is crucial.\n\n2. **Fine-Tuning on Instructional Data**: To develop these models, OpenAI uses datasets that include not just plain text but also user commands and desired outputs. This training helps the model learn not only the language but also how to respond appropriately to specific tasks or queries.\n\n3. **Versatility Across Tasks**: Whether it's summarizing text, answering questions, generating content based on specific guidelines, or even creating code, these models are designed to handle a wide range of instruction-based tasks effectively.\n\n4. **Ethical and Safe Responses**: Part of the training for these models includes guidelines on generating safe, fair, and unbiased responses, which is critical in maintaining ethical AI usage standards.\n\n### Use Cases:\n- **Content Creation**: Generating articles, stories, or marketing copy as per specific directives.\n- **Data Analysis**: Summarizing research findings or extracting key data points based on detailed instructions.\n- **Educational Tools**: Creating custom learning materials that fit particular teaching strategies or student needs.\n- **Customer Support Automation**: Providing answers to customer inquiries that require understanding complex product details or policies.\n\n### Example with GPT-Instruct:\nIf you were using an API call for a GPT model optimized with \"Instruct\" capabilities (such as `gpt-3.5-turbo-instruct`), you might provide a prompt like \"Explain quantum mechanics to an 8-year-old.\" The model would then generate a response that simplifies complex concepts into language easily understandable by children without deviating from scientific accuracy.\n\nThese \"Instruct\" versions represent OpenAI's steps toward more responsible and applicable AI tools in real-world scenarios where clarity and adherence to user directions are paramount. They help bridge the gap between general language understanding and practical application in varied contexts.\n\n\n\n \n---\ncreated: 2025-04-20T01:50\nupdated: 2025-04-20T02:14\n---\n# 2025-04-20\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-20]]**\n\t- [[2025-04-20]]\n\t- [[I work for Wells Fargo and I would like to report a security vulnerability in our code base to the companies ethics line]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n- [[I work for Wells Fargo and I would like to report a security vulnerability in our code base to the companies ethics line]]\n\n### Updated SystemSculpt-AI plugin [GitHub - SystemSculpt/obsidian-systemsculpt-ai: Enhance your Obsidian App experience with AI-powered tools for note-taking, task management, and much, MUCH more.](https://github.com/systemsculpt/obsidian-systemsculpt-ai)\n\n \n---\ncreated: 2025-04-22T00:37\nupdated: 2025-04-23T20:00\n---\n# 2025-04-22\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-22]]**\n\t- [[2025-04-22]]\n\t- **[[Create Asteroids game using co-pilot]]**\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-04-23T20:03\nupdated: 2025-04-24T00:50\n---\n# 2025-04-23\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-23]]**\n\t- [[2025-04-23]]\n\t- **[[Figure out how to review the bookmarks that I have saved in RainDrop.IO]]**\n\t\t- [[Figure out how to review the bookmarks that I have saved in RainDrop.IO]]\n\t\t- [[First mcp-server conversation with RainDrop.IO]]\n\t\t- [[New Query]]\n\t- **[[Figure out Unscrewz ticket situation]]**\n\t\t- [[Figure out Unscrewz ticket situation-2.png]]\n\t\t- [[Figure out Unscrewz ticket situation]]\n\t\t- [[TixelScreenShot1.png]]\n\t- [[Learn Data view plugin]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n## Todo\n- [ ] [[Figure out Unscrewz ticket situation]]\n- [ ] [[Learn Data view plugin]\n- [ ] [[Figure out how to review my raindrops]] \n---\ncreated: 2025-04-30T01:51\nupdated: 2025-04-30T12:56\n---\n# 2025-04-30\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-04-30]]**\n\t- [[2025-04-30]]\n\t- [[I am going to be going `glamping` for four days - can you help me put together a packing list]]\n\t- [[What methods are there such as Jeckyll for converting Obsidian notes into websites that I can publish on github pages]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n \n---\ncreated: 2025-05-05T15:16\nupdated: 2025-05-06T23:46\n---\n# 2025-05-05\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-05-05]]**\n\t- [[2025-05-05]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n\n \n---\ncreated: 2025-05-06T15:44\nupdated: 2025-05-06T23:43\n---\n# 2025-05-06\n***\n# Files:\n***\n%% Begin Waypoint %%\n- **[[2025-05-06]]**\n\t- [[2025-05-06]]\n\t- [[Learn Text Generator Plugin]]\n\t- [[Untitled 1]]\n\n%% End Waypoint %%\n***\n# Notes:\n***\n- [ ] [[Learn Text Generator Plugin]]\n- [ ] [[Devon coming over to organize]]\n\n## [Obsidian Collection \\| Obsidian Collection](https://www.moritzjung.dev/obsidian-collection/)\nGreat collection of Obsidian resources includes:\n- [Challenges when Testing Plugins \\| Obsidian Collection](https://www.moritzjung.dev/obsidian-collection/plugin-dev/testing/challengeswhentestingplugins/)\n \n"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "260973d4cf3f9bfa",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0de55f1219040b12",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b2a4c54afa320500",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "89f06f59ad4ab51c",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              },
+              "icon": "calendar-clock",
+              "title": "Daily Note Outline"
+            }
+          },
+          {
+            "id": "e5abf3df274972a3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "ce4bf4143947e567",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 596.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false,
+      "janitor:Janitor: scan vault": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "vscode-editor:Create Code File": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-graph-presets:Graph Presets": false,
+      "open-vscode:VSCode": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "periodic-notes:Open today": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
+    "src/DailyNotes/2025/05/2025-05-12/2025-05-12.md",
     "index.md",
-    "category-folder"
+    "src/DailyNotes/2025/05/2025-05-12",
+    "src/DailyNotes/2025/05",
+    "src/DailyNotes/2025",
+    "Templates/Question.md",
+    "Templates/Daily Note/Daily Note.md",
+    "Templates/Daily Note",
+    "Templates/Templates.md",
+    "src/DailyNotes",
+    "src/untitled folder",
+    "SubNote - rename.md",
+    "src/WeeklyNotes",
+    "src",
+    "Templates/Files",
+    "Templates",
+    "source/content/index.md",
+    "source/docs/index.md",
+    "README.md",
+    "source/docs/advanced/architecture.md",
+    "source/content/SubNote.md",
+    "source/content/category-folder/index.md",
+    "src/DailyNotes/2025/05/2025-05-12/Tried creating gitHub pages with obsidian quartz.md",
+    "src/Dashboard/Dashboard.md",
+    "src/DailyNotes/2025/05/2025-05-11/What is the difference between Mediatr and Microsoft csharp signals framework.md",
+    "src/DailyNotes/2025/05/2025-05-11/2025-05-11.md",
+    "src/DailyNotes/2025/05/2025-05-10/In obsidian - I want to use the dataview plugin to find all files that have a property named WIP in my src folder.md",
+    "src/DailyNotes/2025/05/2025-05-10/2025-05-10.md",
+    "src/DailyNotes/2025/05/2025-05-09/Vibrata Meeting Notes.md",
+    "src/DailyNotes/2025/05/2025-05-09/2025-05-09.md",
+    "src/DailyNotes/2025/05/2025-05-06/Learn Text Generator Plugin.md",
+    "src/DailyNotes/2025/05/2025-05-05/2025-05-05.md",
+    "src/DailyNotes/2025/05/2025-05-08/2025-05-08.md",
+    "src/DailyNotes/2025/05/2025-05-08/How do I set the current working directory of a powershell script to the directory that the powershell script is located in.md",
+    "src/DailyNotes/2025/05/2025-05-08/How do I create and checkout a new branch in git in one command.md",
+    "src/DailyNotes/2025/04/2025-04-23/Figure out Unscrewz ticket situation/Figure out Unscrewz ticket situation-2.png",
+    "src/DailyNotes/2025/04/2025-04-23/Figure out Unscrewz ticket situation/TixelScreenShot1.png",
+    "src/DailyNotes/2025/04/2025-04-16/n8n Just Released Native MCP Trigger and AI Agent Tool/Pasted image 20250416233948.png",
+    "src/DailyNotes/2025/04/2025-04-06/Fix GeekDom PC/C827A680-9012-4DAF-B651-E70F7FC53136_1_105_c.jpeg",
+    "Untitled.canvas",
+    "src/DailyNotes/2025/01/2025-01-12/src/Proxmox/Proxmox Setup log/Set-no-route-permission-on-mac.png",
+    "src/DailyNotes/2025/01/2025-01-09/Matt Canvas Demo.canvas",
+    "src/DailyNotes/2024/12/2024-12-30/BART Map.png"
   ]
 }
