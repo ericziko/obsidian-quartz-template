@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "b852b27e1c59986e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2bb206286be824de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/DailyNotes/2025/05/2025-05-15/2025-05-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-15"
+              "title": "New tab"
             }
           }
         ]
@@ -335,9 +321,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c55dc925d31eb43",
+  "active": "2bb206286be824de",
   "lastOpenFiles": [
+    "Clippings/Your first bookmarklet.md",
     "src/DailyNotes/2025/05/2025-05-15/2025-05-15.md",
+    "Clippings",
     "index.md",
     "src/DailyNotes/2025/05/2025-05-15",
     "src/DailyNotes/2025/05/2025-05-12/2025-05-12.md",
@@ -353,7 +341,6 @@
     "SubNote - rename.md",
     "src/WeeklyNotes",
     "src",
-    "Templates/Files",
     "source/content/index.md",
     "source/docs/index.md",
     "README.md",
@@ -372,7 +359,6 @@
     "src/DailyNotes/2025/05/2025-05-05/2025-05-05.md",
     "src/DailyNotes/2025/05/2025-05-08/2025-05-08.md",
     "src/DailyNotes/2025/05/2025-05-08/How do I set the current working directory of a powershell script to the directory that the powershell script is located in.md",
-    "src/DailyNotes/2025/05/2025-05-08/How do I create and checkout a new branch in git in one command.md",
     "src/DailyNotes/2025/04/2025-04-23/Figure out Unscrewz ticket situation/Figure out Unscrewz ticket situation-2.png",
     "src/DailyNotes/2025/04/2025-04-23/Figure out Unscrewz ticket situation/TixelScreenShot1.png",
     "src/DailyNotes/2025/04/2025-04-16/n8n Just Released Native MCP Trigger and AI Agent Tool/Pasted image 20250416233948.png",
