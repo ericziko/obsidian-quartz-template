@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "b3b474bce0daebed",
+    "type": "split",
+    "children": [
+      {
+        "id": "70ae93e79d23ff60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa85dec7497f4bff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "7077e830bb3eff95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "08bd7d7f660d33b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0798827e6d7d3372",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2422261e0d4df68a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "56c99ec3cce32b30",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2938754ec19689d5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8a2899c14f7b6b55",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4363e46c4628d571",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "f25adac78c22eedf",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "d5fa0d1c464dbd88",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "d6cc064a26a176ac",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5886ef653e8f0f8d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "63c818f9591c3296",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "83b67e5feda8b5e0",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "a743e8d2529ccb9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "09121dc195c5b5a4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b9b444b347a2f981",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "FleetingThoughts/2023-03-10.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f7670181d79621a5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "56b79270a371bed9",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "322eef8e35c63897",
+        "type": "leaf",
+        "state": {
+          "type": "daily-note-outline",
+          "state": {
+            "activeSet": 0,
+            "activeGranularity": 0
+          }
+        }
+      },
+      {
+        "id": "ed17e6c6d9bf82c3",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {}
+        }
+      },
+      {
+        "id": "38ddce55f64134f4",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {}
+        }
+      },
+      {
+        "id": "f0a8df0b4ef5f53d",
+        "type": "leaf",
+        "state": {
+          "type": "make-context-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 7
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0798827e6d7d3372",
+  "lastOpenFiles": [
+    "RainDropHighlights/Unsorted/Unsorted.md",
+    "src/DailyNotes/2024/02/2024-02-14/Git commit message.md",
+    "src/DailyNotes/2024/02/2024-02-16/Untitled 2.md",
+    "src/DailyNotes/2024/02/2024-02-16/Untitled.md",
+    "src/DailyNotes/2024/02/2024-02-16/How do I match . on left side of == sign in ini files.md",
+    "textgenerator/prompts/awesomePrompts/philosophyteacherAwesome.md",
+    "202402110931.md",
+    "202402110930.md",
+    "textgenerator/prompts/awesomePrompts/mathteacherAwesome.md",
+    "textgenerator/prompts/awesomePrompts/screenwriterAwesome.md",
+    "textgenerator/prompts/awesomePrompts/selfhelpbookAwesome.md",
+    "textgenerator/prompts/awesomePrompts/seniorfrontenddeveloperAwesome.md",
+    "textgenerator/prompts/awesomePrompts/softwarequalityassurancetesterAwesome.md",
+    "textgenerator/prompts/awesomePrompts/titlegeneratorforwrittenpiecesAwesome.md",
+    "textgenerator/prompts/awesomePrompts/textbasedadventuregameAwesome.md",
+    "textgenerator/prompts/awesomePrompts/javascriptconsoleAwesome.md",
+    "textgenerator/prompts/awesomePrompts/gnomistAwesome.md",
+    "textgenerator/prompts/awesomePrompts/fullstacksoftwaredeveloperAwesome.md",
+    "textgenerator/prompts/awesomePrompts/friendAwesome.md",
+    "textgenerator/prompts/awesomePrompts/financialanalystAwesome.md",
+    "textgenerator/prompts/awesomePrompts/cheaptravelticketadvisorAwesome.md",
+    "textgenerator/prompts/awesomePrompts/chatgptpromptgeneratorAwesome.md",
+    "textgenerator/prompts/awesomePrompts/artistadvisorAwesome.md",
+    "textgenerator/prompts/awesomePrompts/aphorismbookAwesome.md",
+    "textgenerator/prompts/awesomePrompts/aiassisteddoctorAwesome.md",
+    "textgenerator/prompts/awesomePrompts/aitryingtoescapetheboxAwesome.md",
+    "Untitled.canvas",
+    "PublishedNotes/Chat-GPT Mermaid Use Case Diagram Test.html",
+    "PublishedNotes/index.html",
+    "FleetingThoughts/screenshot 6.png",
+    "FleetingThoughts/screenshot 1.png",
+    "Luc martin/screenshot.png",
+    "FleetingThoughts/screenshot 4.png",
+    "FleetingThoughts/screenshot 2.png",
+    "FleetingThoughts/IMG_0811.png",
+    "Publish with quartz.jpg",
+    "FleetingThoughts/IMG_9398.jpg",
+    "FleetingThoughts/screenshot 5.png",
+    "FleetingThoughts/IMG_0801.jpg",
+    "ReadItLater",
+    "PublishedNotes",
+    "RainDropHighlights/Unsorted",
+    "RainDropHighlights",
+    "Luc martin/Canvas Example.canvas",
+    "Luc martin",
+    "FleetingThoughts",
+    "Context",
+    "DailyNotes"
+  ]
+}

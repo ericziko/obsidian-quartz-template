@@ -1,0 +1,9 @@
+{
+  "ignoredFolders": [
+    "MetaData",
+    "MetaData/Banners",
+    "RainDropHighlights/*",
+    "RainDropHighlights",
+    "Templates"
+  ]
+}

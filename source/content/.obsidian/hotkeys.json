@@ -10,8 +10,7 @@
   "app:delete-file": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
       "key": "Backspace"
     }
@@ -19,10 +18,10 @@
   "quick-explorer:browse-current": [
     {
       "modifiers": [
-        "Mod",
+        "Ctrl",
         "Shift"
       ],
-      "key": "."
+      "key": "F"
     }
   ],
   "quick-explorer:browse-vault": [
@@ -37,8 +36,7 @@
   "omnisearch:show-modal": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
       "key": "F"
     }
@@ -54,24 +52,6 @@
     }
   ],
   "note-refactor-obsidian:app:extract-selection-content-only": [],
-  "hotkey-helper:browse-plugins": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "B"
-    }
-  ],
-  "hotkey-helper:open-hotkeys": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -99,11 +79,19 @@
     }
   ],
   "workspace:goto-tab-1": [],
-  "obsidian-textgenerator-plugin:generate-text-with-metadata": [],
+  "obsidian-textgenerator-plugin:generate-text-with-metadata": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ],
   "editor:toggle-source": [
     {
       "modifiers": [
-        "Mod",
+        "Ctrl",
         "Shift"
       ],
       "key": "S"
@@ -126,21 +114,37 @@
       "key": "I"
     }
   ],
-  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
   "editor:fold-less": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "]"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
     }
   ],
   "editor:fold-more": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "["
+      "key": ","
     }
   ],
   "note-refactor-obsidian:app:split-note-by-heading-h2": [
@@ -200,13 +204,20 @@
   "periodic-notes:open-daily-note": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Ctrl"
       ],
       "key": "T"
     }
   ],
-  "global-search:open": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
   "editor:open-link-in-new-leaf": [
     {
       "modifiers": [
@@ -220,31 +231,21 @@
   "obsidian-zoom:zoom-out": [],
   "systemsculpt-ai:change-chat-title": [],
   "systemsculpt-ai:open-tasks-file": [],
-  "obsidian-quiet-outline:dec-level": [
+  "note-refactor-obsidian:app:split-note-by-heading-h1": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Ctrl"
       ],
-      "key": ","
+      "key": "1"
     }
   ],
-  "obsidian-quiet-outline:inc-level": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Shift"
-      ],
-      "key": "."
-    }
-  ],
-  "obsidian-quiet-outline:quiet-outline": [
+  "file-explorer:new-file-in-new-pane": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "O"
+      "key": "="
     }
   ],
   "obsidian-quiet-outline:next-heading": [
@@ -265,13 +266,188 @@
       "key": "K"
     }
   ],
-  "obsidian-textgenerator-plugin:generate-text": [
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-quiet-outline:quiet-outline": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-full-calendar:full-calendar-open": [
     {
       "modifiers": [
         "Ctrl",
         "Shift"
       ],
-      "key": "/"
+      "key": "C"
+    }
+  ],
+  "obsidian-full-calendar:full-calendar-new-event": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-full-calendar:full-calendar-open-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "periodic-notes:next-daily-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "periodic-notes:next-weekly-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": [],
+  "hotkey-helper:browse-plugins": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "S"
+    }
+  ],
+  "folder-note-core:make-doc-folder-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "hotkey-helper:open-settings": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "spacekeys:leader": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "review-obsidian:future-review": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "folder-note-plugin:note-to-folder": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": ","
+    }
+  ],
+  "periodic-notes:prev-daily-note": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "mode-manager:switch-to-next-mode": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-key-sequence-shortcut:open-key-sequence-palette": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "M"
     }
   ]
 }

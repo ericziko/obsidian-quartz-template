@@ -1,3 +1,26 @@
 {
-  "vimMode": true
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "FleetingThoughts",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true,
+  "promptDelete": true,
+  "showInlineTitle": false,
+  "vimMode": true,
+  "propertiesInDocument": "visible",
+  "rightToLeft": false
 }

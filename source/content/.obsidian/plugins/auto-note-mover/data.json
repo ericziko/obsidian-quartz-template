@@ -1,0 +1,48 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": true,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "src/para/projects",
+      "tag": "^#project$",
+      "pattern": ""
+    },
+    {
+      "folder": "src/para/projects",
+      "tag": "^#todo$",
+      "pattern": ""
+    },
+    {
+      "folder": "src/para/projects/ezra",
+      "tag": "#ezra",
+      "pattern": ""
+    },
+    {
+      "folder": "src/para/fleeting-thoughts",
+      "tag": "^#fleeting-thought$",
+      "pattern": ""
+    },
+    {
+      "folder": "src/para/resources",
+      "tag": "^#resource.*$",
+      "pattern": ""
+    },
+    {
+      "folder": "src/para/areas",
+      "tag": "^#para/areas.*$",
+      "pattern": ""
+    },
+    {
+      "folder": "Confidential",
+      "tag": "^#confidential$",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": true,
+  "excluded_folder": [
+    {
+      "folder": "src/AI-Prompts-🤖"
+    }
+  ]
+}

@@ -1,1 +1,20 @@
-{}
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "word-wrap-data-view-tables",
+    "text-extractor-suggestions",
+    "dashboard",
+    "folder-icons",
+    "dark-text-on-token-popup",
+    "obsidian-style-settings",
+    "your-secion-name-here"
+  ],
+  "translucency": true,
+  "nativeMenus": true,
+  "textFontFamily": "",
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

@@ -1,0 +1,21 @@
+{
+  "delay": 500,
+  "key": "Shift",
+  "shortcuts": [
+    {
+      "command": "command-palette:open",
+      "key": "Meta",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "darlal-switcher-plus:switcher-plus:open",
+      "key": "Control",
+      "lastKeyUpTime": 0
+    },
+    {
+      "command": "easy-toggle-sidebars:toggle-both-sidebars",
+      "key": "Shift",
+      "lastKeyUpTime": 0
+    }
+  ]
+}

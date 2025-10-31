@@ -1,0 +1,42 @@
+{
+  "outputFileName": "orphaned files output",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [
+    "src/Fabric/",
+    "Templates/",
+    "Spaces/",
+    "MetaData/",
+    "graph presets/"
+  ],
+  "filesToIgnore": [],
+  "fileTypesToIgnore": [
+    "ps1"
+  ],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [],
+  "ignoreFileTypes": true,
+  "ignoreDirectories": true,
+  "unresolvedLinksIgnoreDirectories": true,
+  "unresolvedLinksOutputFileName": "broken links output",
+  "unresolvedLinksDirectoriesToIgnore": [
+    ""
+  ],
+  "unresolvedLinksFilesToIgnore": [
+    "user.md"
+  ],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "files without tags",
+  "emptyFilesOutputFileName": "empty files",
+  "emptyFilesDirectories": [
+    "src/Fabric/",
+    "Templates/"
+  ],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "openOutputFile": true
+}

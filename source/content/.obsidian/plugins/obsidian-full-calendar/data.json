@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075))",
+      "directory": "src/Events"
+    },
+    {
+      "type": "dailynote",
+      "color": "hsl(calc(258 - 1), calc(88% * 1.01), calc(66% * 1.075))",
+      "heading": "Events"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

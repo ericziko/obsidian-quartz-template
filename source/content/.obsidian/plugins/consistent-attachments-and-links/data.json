@@ -1,0 +1,19 @@
+{
+  "consistencyReportFile": "consistency-report.md",
+  "emptyAttachmentFolderBehavior": "Delete",
+  "excludePaths": [
+    "/consistency-report\\.md$/"
+  ],
+  "excludePathsFromAttachmentCollecting": [],
+  "includePaths": [],
+  "shouldChangeNoteBacklinksDisplayText": true,
+  "shouldCollectAttachmentsAutomatically": false,
+  "shouldDeleteAttachmentsWithNote": false,
+  "shouldDeleteExistingFilesWhenMovingNote": false,
+  "shouldMoveAttachmentsWithNote": true,
+  "shouldShowBackupWarning": false,
+  "shouldUpdateLinks": true,
+  "treatAsAttachmentExtensions": [
+    ".excalidraw.md"
+  ]
+}

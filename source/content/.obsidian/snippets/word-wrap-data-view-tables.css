@@ -1,0 +1,32 @@
+
+ /* 
+    Eric Ziko 2024-02-17
+    The following css was added to make sure that text in columns
+    of the dataview plugin wrap properly
+ */
+
+span.value-container  {
+    white-space:break-spaces;
+}
+
+div.node-insert-event tr {
+    border-bottom:1px dotted #000;
+}
+
+div.node-insert-event thead {
+    position: sticky;
+    top: 0;
+    /* See https://docs.obsidian.md/Reference/CSS+variables/About+styling  */
+    /* background-color: var(--background-primary); */
+    background-color: var(--titlebar-background);
+    font-size: smaller;
+    
+    z-index: 2;
+}
+
+div.node-insert-event {
+    tr, td {
+        z-index: 1;
+    }
+}
+

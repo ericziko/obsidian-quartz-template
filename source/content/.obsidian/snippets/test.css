@@ -1,0 +1,41 @@
+
+div .workspace-leaf .mod-active {
+     background-color: red;
+}
+
+@keyframes tabActiveAnimation {
+    0% { background-color: #f2f2f2; } /* Initial background color */
+    50% { background-color: #e5e5e5; } /* Slightly darker shade */
+    100% { background-color: #f2f2f2; } /* Back to initial color */
+  }
+
+  @keyframes tabActiveAnimation-2 {
+    0% { background-color: #f2f2f2; } /* Initial background color */
+    50% { background-color: #4523a2; } /* Slightly darker shade */
+  }
+
+    100% { background-color: #f2f2f2; } /* Back to initial color */
+
+
+/* Apply the transition to the active tab */
+.tab {
+
+  }
+  
+  /* Change the background color of the active tab */
+
+body > div.app-container > div.horizontal-main-container
+ > div > div.workspace-split.mod-vertical.mod-root
+  > div > div.workspace-tab-container
+   > div.workspace-leaf.mod-active  div.view-content {
+    /* animation-name: tabActiveAnimation-2; */
+    /* animation-duration: 1s; */
+    /* animation-timing-function: linear; */
+
+    background-color: #f2f2f2; /* Initial background color */
+    transition: background-color 0.3s ease-in-out;
+}
+
+body div.workspace-leaf.mod-active {
+    background-color: red!important;
+}

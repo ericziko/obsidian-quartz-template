@@ -1,0 +1,48 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "editor:save-file",
+      "icon": "ag-save",
+      "name": "Save current file",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Turn Http Server On",
+      "Turn Http Server Off",
+      "Rename file",
+      "ReadItLater: Create from clipboard",
+      "Open media",
+      "Janitor: scan vault",
+      "Juggl global graph",
+      "Shell commands: Custom variables",
+      "BRAT",
+      "Graph Presets",
+      "Open Mermaid Toolbar"
+    ]
+  },
+  "spacing": "0",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

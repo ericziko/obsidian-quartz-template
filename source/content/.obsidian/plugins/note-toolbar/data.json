@@ -1,0 +1,118 @@
+{
+  "debugEnabled": false,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "*",
+      "toolbar": "c26a4829-925e-47e8-b953-43334dd9043b"
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "onboarding": {},
+  "ribbonAction": "toolbar",
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "c26a4829-925e-47e8-b953-43334dd9043b",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky",
+        "left"
+      ],
+      "hasCommand": true,
+      "items": [
+        {
+          "uuid": "ed980368-6d48-4c32-890a-8d9bdf5cfe5d",
+          "hasCommand": false,
+          "icon": "lucide-calendar-check",
+          "inGallery": false,
+          "label": "",
+          "link": "Periodic Notes: Open daily note",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "periodic-notes:open-daily-note",
+            "hasVars": false,
+            "target": "",
+            "type": "command"
+          },
+          "plugin": "",
+          "tooltip": "Today's daily note",
+          "visibility": {
+            "desktop": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "mobile": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            },
+            "tablet": {
+              "allViews": {
+                "components": [
+                  "icon",
+                  "label"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "test-toolbar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "top"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2025-10-22T06:44:59.264Z"
+    }
+  ],
+  "version": 20250313.1,
+  "whatsnew_version": "1.25"
+}

@@ -1,0 +1,12 @@
+{
+  "userIllegalSymbols": [],
+  "ignoredFiles": {
+    "Templates/Daily Note/Daily Note.md": null
+  },
+  "ignoreRegex": "",
+  "useFileOpenHook": true,
+  "useFileSaveHook": true,
+  "newHeadingStyle": "Prefix",
+  "replaceStyle": false,
+  "underlineString": "==="
+}
