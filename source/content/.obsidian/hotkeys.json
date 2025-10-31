@@ -1,0 +1,277 @@
+{
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Backspace"
+    }
+  ],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "quick-explorer:browse-vault": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "hotkey-helper:browse-plugins": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "hotkey-helper:open-hotkeys": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "obsidian-textgenerator-plugin:generate-text-with-metadata": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-textgenerator-plugin:stop-stream": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-textgenerator-plugin:create-text-From-template": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h2": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "2"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-by-heading-h3": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "templater-obsidian:Templates/Question.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "global-search:open": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-icon-folder:iconize:set-icon-for-file": [],
+  "obsidian-zoom:zoom-out": [],
+  "systemsculpt-ai:change-chat-title": [],
+  "systemsculpt-ai:open-tasks-file": [],
+  "obsidian-quiet-outline:dec-level": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-quiet-outline:inc-level": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-quiet-outline:quiet-outline": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-quiet-outline:next-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-quiet-outline:prev-heading": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-textgenerator-plugin:generate-text": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ]
+}
